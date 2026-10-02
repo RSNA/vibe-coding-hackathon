@@ -5,7 +5,7 @@ Participating teams will submit a video, github repo, and an optional demo. Judg
 
 Keep coming back to this repo for more updates about the Hackathon!
 
-# [Schedule of Events](https://drive.google.com/file/d/1pVAC9qU4E1mmPrSHtc1vMTmhmsscz8xP/view?usp=drive_link)
+# [Schedule](https://drive.google.com/file/d/1pVAC9qU4E1mmPrSHtc1vMTmhmsscz8xP/view?usp=drive_link)
 
 | Day | Time | Event | Location |
 |-----|------|-------|----------|
@@ -17,17 +17,28 @@ Keep coming back to this repo for more updates about the Hackathon!
 | Wednesday | 12:00-2:00 PM | Judging and presentation setup | Hackathon Event Space<br>Lakeside Learning Center, Hall D |
 | Wednesday | 2:00-3:00 PM | Final Presentations and Winner Announcement | Lakeside Learning Center Theater 1 |
 
+# Problems / Ideas (to get you started)
 
-# Codes of Conduct
-[Participant Code of Conduct](https://docs.google.com/document/d/1mk774v4lU263N9Tj3ujF7GNHaHJZpjSRMXcqbJslf_g/edit?usp=sharing)
-
-[Mentor and Judge Code of Conduct](https://docs.google.com/document/d/1yr838ZI-FLbl4fffEnhXKln-T901UCO-RGqBafWpj_o/edit?usp=sharing)
+# Team Formation
 
 
-# Instructional Tutorials
+# Datasets & Resources
 
 
-# Datasets and Resources
+# Mentor Office Hours Schedule
+
+
+# Submission Requirements
+
+
+# Judging Criteria
+
+
+# Code of Conduct
+- [Participant Code of Conduct](https://docs.google.com/document/d/1mk774v4lU263N9Tj3ujF7GNHaHJZpjSRMXcqbJslf_g/edit?usp=sharing)
+
+- [Mentor and Judge Code of Conduct](https://docs.google.com/document/d/1yr838ZI-FLbl4fffEnhXKln-T901UCO-RGqBafWpj_o/edit?usp=sharing)
+
 
 
 
